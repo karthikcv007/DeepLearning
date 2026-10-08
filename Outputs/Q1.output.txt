@@ -1,0 +1,10 @@
+Dataset : Generated Regression Dataset
+Samples : 500
+Features: 5
+
+-----------------------------------------------------------
+Optimizer	Time(s)	Updates		Final Loss
+-----------------------------------------------------------
+Batch GD	0.0141	1000		92.81
+SGD		7.0531	500000		92.83
+Mini Batch	0.2324	8000		92.82
